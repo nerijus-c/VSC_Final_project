@@ -44,9 +44,8 @@ Steps:
    ![alt_text](https://github.com/nerijus-c/VSC_Final_project/blob/main/jpeg/recent_air_quality_data_major_cities.png)
    3. Air pollution by city:
 
-     ![alt_text](https://github.com/nerijus-c/VSC_Final_project/blob/main/jpeg/city_avg.png)
 <p align="center">
-  <img width="460" height="300" src="https://github.com/nerijus-c/VSC_Final_project/blob/main/jpeg/city_avg.png">
+  <img width="600" height="400" src="https://github.com/nerijus-c/VSC_Final_project/blob/main/jpeg/city_avg.png">
 </p>
        
    
