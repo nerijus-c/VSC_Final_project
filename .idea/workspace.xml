@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dc983f80-c798-4718-b89e-9bb7c0720819" name="Changes" comment=".">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;nerijus-c&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="f66e3756-abc1-4bdb-8c4a-6cac2e151db9" />
+        <option name="url" value="https://github.com/7yg1s/Final-project.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2Y9adEBLigWC9gIDWEhWEpqQXL0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Vartotojas/PycharmProjects/VCS_Final_project&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Vartotojas\Documents\GitHub\Final-project\jpeg" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc983f80-c798-4718-b89e-9bb7c0720819" name="Changes" comment="" />
+      <created>1699940335520</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699940335520</updated>
+      <workItem from="1699940338233" duration="2188000" />
+      <workItem from="1699942721257" duration="22264000" />
+      <workItem from="1700027639686" duration="62000" />
+      <workItem from="1700027769067" duration="8040000" />
+      <workItem from="1700037781470" duration="1352000" />
+      <workItem from="1700041034702" duration="4172000" />
+      <workItem from="1700112955315" duration="10973000" />
+      <workItem from="1701178173958" duration="529000" />
+      <workItem from="1701178717590" duration="956000" />
+      <workItem from="1701179885339" duration="11000" />
+      <workItem from="1701180037466" duration="158000" />
+      <workItem from="1701180205328" duration="962000" />
+    </task>
+    <task id="LOCAL−00001" summary="antra diena grafikai ir pan">
+      <option name="closed" value="true" />
+      <created>1699951339659</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1699951339659</updated>
+    </task>
+    <task id="LOCAL−00002" summary="antra diena grafikai ir pan">
+      <option name="closed" value="true" />
+      <created>1699951938810</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1699951938810</updated>
+    </task>
+    <task id="LOCAL−00003" summary="-sukurta logging funkcija&#10;-koreguotas 'Year' datatype&#10;-pridetos min max reiksmes air_stat_by_year.png">
+      <option name="closed" value="true" />
+      <created>1699989142475</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1699989142475</updated>
+    </task>
+    <task id="LOCAL−00004" summary="pridejau komentara">
+      <option name="closed" value="true" />
+      <created>1699989825250</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1699989825250</updated>
+    </task>
+    <task id="LOCAL−00005" summary="pridejau komentara">
+      <option name="closed" value="true" />
+      <created>1700027880862</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1700027880862</updated>
+    </task>
+    <task id="LOCAL−00006" summary=".">
+      <option name="closed" value="true" />
+      <created>1700027985860</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1700027985860</updated>
+    </task>
+    <task id="LOCAL−00007" summary="nauji siandienos duomenis">
+      <option name="closed" value="true" />
+      <created>1700032771338</created>
+      <option name="number" value="LOCAL−00007" />
+      <option name="presentableId" value="LOCAL−00007" />
+      <updated>1700032771338</updated>
+    </task>
+    <task id="LOCAL−00008" summary="nauji siandienos duomenis">
+      <option name="closed" value="true" />
+      <created>1700045004544</created>
+      <option name="number" value="LOCAL−00008" />
+      <option name="presentableId" value="LOCAL−00008" />
+      <updated>1700045004544</updated>
+    </task>
+    <task id="LOCAL−00009" summary=".">
+      <option name="closed" value="true" />
+      <created>1700045469154</created>
+      <option name="number" value="LOCAL−00009" />
+      <option name="presentableId" value="LOCAL−00009" />
+      <updated>1700045469154</updated>
+    </task>
+    <task id="LOCAL−00010" summary=".">
+      <option name="closed" value="true" />
+      <created>1700045930375</created>
+      <option name="number" value="LOCAL−00010" />
+      <option name="presentableId" value="LOCAL−00010" />
+      <updated>1700045930375</updated>
+    </task>
+    <task id="LOCAL−00011" summary=".">
+      <option name="closed" value="true" />
+      <created>1700046009045</created>
+      <option name="number" value="LOCAL−00011" />
+      <option name="presentableId" value="LOCAL−00011" />
+      <updated>1700046009045</updated>
+    </task>
+    <task id="LOCAL−00012" summary=".">
+      <option name="closed" value="true" />
+      <created>1700046609860</created>
+      <option name="number" value="LOCAL−00012" />
+      <option name="presentableId" value="LOCAL−00012" />
+      <updated>1700046609860</updated>
+    </task>
+    <task id="LOCAL−00013" summary=".">
+      <option name="closed" value="true" />
+      <created>1700116365685</created>
+      <option name="number" value="LOCAL−00013" />
+      <option name="presentableId" value="LOCAL−00013" />
+      <updated>1700116365685</updated>
+    </task>
+    <task id="LOCAL−00014" summary=".">
+      <option name="closed" value="true" />
+      <created>1700117807021</created>
+      <option name="number" value="LOCAL−00014" />
+      <option name="presentableId" value="LOCAL−00014" />
+      <updated>1700117807021</updated>
+    </task>
+    <task id="LOCAL−00015" summary=".">
+      <option name="closed" value="true" />
+      <created>1701178347834</created>
+      <option name="number" value="LOCAL−00015" />
+      <option name="presentableId" value="LOCAL−00015" />
+      <updated>1701178347834</updated>
+    </task>
+    <task id="LOCAL−00016" summary=".">
+      <option name="closed" value="true" />
+      <created>1701180541613</created>
+      <option name="number" value="LOCAL−00016" />
+      <option name="presentableId" value="LOCAL−00016" />
+      <updated>1701180541613</updated>
+    </task>
+    <task id="LOCAL−00017" summary=".">
+      <option name="closed" value="true" />
+      <created>1701180734403</created>
+      <option name="number" value="LOCAL−00017" />
+      <option name="presentableId" value="LOCAL−00017" />
+      <updated>1701180734403</updated>
+    </task>
+    <task id="LOCAL−00018" summary=".">
+      <option name="closed" value="true" />
+      <created>1701181016665</created>
+      <option name="number" value="LOCAL−00018" />
+      <option name="presentableId" value="LOCAL−00018" />
+      <updated>1701181016665</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="antra diena grafikai ir pan" />
+    <MESSAGE value="-sukurta logging funkcija&#10;-koreguotas 'Year' datatype&#10;-pridetos min max reiksmes air_stat_by_year.png" />
+    <MESSAGE value="pridejau komentara" />
+    <MESSAGE value="nauji siandienos duomenis" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/final_project_py$testinis.coverage" NAME="testinis Coverage Results" MODIFIED="1699948163015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/README_md$final_project.coverage" NAME="final_project Coverage Results" MODIFIED="1700118100288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/final_project_py$live_data_scraper.coverage" NAME="live_data_scraper Coverage Results" MODIFIED="1699943047445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/README_md$live_data_scraper.coverage" NAME="live_data_scraper Coverage Results" MODIFIED="1700117519649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/final_project_py$final_project.coverage" NAME="final_project Coverage Results" MODIFIED="1699988920168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Final_project$final_project.coverage" NAME="final_project Coverage Results" MODIFIED="1699941692671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
