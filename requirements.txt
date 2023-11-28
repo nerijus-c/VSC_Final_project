@@ -1,0 +1,9 @@
+requests
+Folium
+BeautifulSoup4
+psycopg2
+pandas
+matplotlib
+folium
+timestamp
+selenium

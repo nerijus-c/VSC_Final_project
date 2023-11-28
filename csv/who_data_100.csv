@@ -1,0 +1,100 @@
+Nr,ISO3,Country,City,Year,PM2.5,PM10,NO2,Reference,Database_version
+1,LTU,Lithuania,Jonava,2010,,30,10,European Environment Agency (downloaded in 2021),database 2022
+2,LTU,Lithuania,Jonava,2013,,28,10,"Air quality statistics, calculated by the European Environment Agency according to official data provided by Lithuania, European Environment Agency (downloaded in 2021)",database 2022
+3,LTU,Lithuania,Jonava,2014,,21,10,"Air quality statistics, calculated by the European Environment Agency according to official data provided by Lithuania, European Environment Agency (downloaded in 2021)",database 2022
+4,LTU,Lithuania,Jonava,2015,,20,11,"Air quality statistics, calculated by the European Environment Agency according to official data provided by Lithuania, European Environment Agency (downloaded in 2021)",database 2022
+5,LTU,Lithuania,Jonava,2016,,17,11,"Air quality statistics, calculated by the European Environment Agency according to official data provided by Lithuania, European Environment Agency (downloaded in 2021)",database 2022
+6,LTU,Lithuania,Jonava,2017,,11,9,European Environment Agency (downloaded in 2021),database 2022
+7,LTU,Lithuania,Jonava,2018,,13,10,European Environment Agency (downloaded in 2021),database 2022
+8,LTU,Lithuania,Jonava,2019,,15,10,European Environment Agency (downloaded in 2021),database 2022
+9,LTU,Lithuania,Kaunas,2010,20,30,13,European Environment Agency (downloaded in 2021),database 2022
+10,LTU,Lithuania,Kaunas,2013,13,30,15,"Air quality statistics, calculated by the European Environment Agency according to official data provided by Lithuania, European Environment Agency (downloaded in 2021)",database 2022
+11,LTU,Lithuania,Kaunas,2014,15,29,15,"Air quality statistics, calculated by the European Environment Agency according to official data provided by Lithuania, European Environment Agency (downloaded in 2021)",database 2022
+12,LTU,Lithuania,Kaunas,2015,13,25,15,"Air quality statistics, calculated by the European Environment Agency according to official data provided by Lithuania, European Environment Agency (downloaded in 2021)",database 2022
+13,LTU,Lithuania,Kaunas,2016,12,23,16,"Air quality statistics, calculated by the European Environment Agency according to official data provided by Lithuania, European Environment Agency (downloaded in 2021)",database 2022
+14,LTU,Lithuania,Kaunas,2017,14,25,18,European Environment Agency (downloaded in 2021),database 2022
+15,LTU,Lithuania,Kaunas,2018,12,29,21,European Environment Agency (downloaded in 2021),database 2022
+16,LTU,Lithuania,Kaunas,2019,11,34,20,European Environment Agency (downloaded in 2021),database 2022
+17,LTU,Lithuania,Kedainiai,2010,,29,9,European Environment Agency (downloaded in 2021),database 2022
+18,LTU,Lithuania,Kedainiai,2013,,30,10,"Air quality statistics, calculated by the European Environment Agency according to official data provided by Lithuania, European Environment Agency (downloaded in 2021)",database 2022
+19,LTU,Lithuania,Kedainiai,2014,,25,11,European Environment Agency (downloaded in 2021),database 2022
+20,LTU,Lithuania,Kedainiai,2015,,22,10,European Environment Agency (downloaded in 2021),database 2022
+21,LTU,Lithuania,Kedainiai,2016,,21,11,European Environment Agency (downloaded in 2021),database 2022
+22,LTU,Lithuania,Kedainiai,2017,,21,16,European Environment Agency (downloaded in 2021),database 2022
+23,LTU,Lithuania,Kedainiai,2018,,24,16,European Environment Agency (downloaded in 2021),database 2022
+24,LTU,Lithuania,Kedainiai,2019,,18,11,European Environment Agency (downloaded in 2021),database 2022
+25,LTU,Lithuania,Kėdainiai,2014,,25,11,"Air quality statistics, calculated by the European Environment Agency according to official data provided by Lithuania",database 2022
+26,LTU,Lithuania,Kėdainiai,2015,,22,10,"Air quality statistics, calculated by the European Environment Agency according to official data provided by Lithuania",database 2022
+27,LTU,Lithuania,Kėdainiai,2016,,21,11,"Air quality statistics, calculated by the European Environment Agency according to official data provided by Lithuania",database 2022
+28,LTU,Lithuania,Klaipeda,2010,13,27,21,European Environment Agency (downloaded in 2021),database 2022
+29,LTU,Lithuania,Klaipeda,2013,20,32,20,"Air quality statistics, calculated by the European Environment Agency according to official data provided by Lithuania, European Environment Agency (downloaded in 2021)",database 2022
+30,LTU,Lithuania,Klaipeda,2014,13,34,21,European Environment Agency (downloaded in 2021),database 2022
+31,LTU,Lithuania,Klaipeda,2015,13,31,19,European Environment Agency (downloaded in 2021),database 2022
+32,LTU,Lithuania,Klaipeda,2016,12,24,21,European Environment Agency (downloaded in 2021),database 2022
+33,LTU,Lithuania,Klaipeda,2017,17,25,21,European Environment Agency (downloaded in 2021),database 2022
+34,LTU,Lithuania,Klaipeda,2018,20,30,24,European Environment Agency (downloaded in 2021),database 2022
+35,LTU,Lithuania,Klaipeda,2019,16,23,20,European Environment Agency (downloaded in 2021),database 2022
+36,LTU,Lithuania,Klaipėda,2014,13,34,21,"Air quality statistics, calculated by the European Environment Agency according to official data provided by Lithuania",database 2022
+37,LTU,Lithuania,Klaipėda,2015,13,31,19,"Air quality statistics, calculated by the European Environment Agency according to official data provided by Lithuania",database 2022
+38,LTU,Lithuania,Klaipėda,2016,12,24,21,"Air quality statistics, calculated by the European Environment Agency according to official data provided by Lithuania",database 2022
+39,LTU,Lithuania,Mazeikiai,2010,,25,7,European Environment Agency (downloaded in 2021),database 2022
+40,LTU,Lithuania,Mazeikiai,2013,,28,7,"Air quality statistics, calculated by the European Environment Agency according to official data provided by Lithuania, European Environment Agency (downloaded in 2021)",database 2022
+41,LTU,Lithuania,Mazeikiai,2014,,30,7,European Environment Agency (downloaded in 2021),database 2022
+42,LTU,Lithuania,Mazeikiai,2015,,29,6,European Environment Agency (downloaded in 2021),database 2022
+43,LTU,Lithuania,Mazeikiai,2016,,27,7,European Environment Agency (downloaded in 2021),database 2022
+44,LTU,Lithuania,Mazeikiai,2017,,25,7,European Environment Agency (downloaded in 2021),database 2022
+45,LTU,Lithuania,Mazeikiai,2018,,30,7,European Environment Agency (downloaded in 2021),database 2022
+46,LTU,Lithuania,Mazeikiai,2019,,27,7,European Environment Agency (downloaded in 2021),database 2022
+47,LTU,Lithuania,Mažeikiai,2014,,30,7,"Air quality statistics, calculated by the European Environment Agency according to official data provided by Lithuania",database 2022
+48,LTU,Lithuania,Mažeikiai,2015,,29,6,"Air quality statistics, calculated by the European Environment Agency according to official data provided by Lithuania",database 2022
+49,LTU,Lithuania,Mažeikiai,2016,,27,7,"Air quality statistics, calculated by the European Environment Agency according to official data provided by Lithuania",database 2022
+50,LTU,Lithuania,Naujoji Akmene,2010,,22,,European Environment Agency (downloaded in 2021),database 2022
+51,LTU,Lithuania,Naujoji Akmene,2013,10,26,,European Environment Agency (downloaded in 2021),database 2022
+52,LTU,Lithuania,Naujoji Akmene,2014,10,29,,European Environment Agency (downloaded in 2021),database 2022
+53,LTU,Lithuania,Naujoji Akmene,2015,8,20,,European Environment Agency (downloaded in 2021),database 2022
+54,LTU,Lithuania,Naujoji Akmene,2016,8,21,,European Environment Agency (downloaded in 2021),database 2022
+55,LTU,Lithuania,Naujoji Akmene,2017,7,19,,European Environment Agency (downloaded in 2021),database 2022
+56,LTU,Lithuania,Naujoji Akmene,2018,10,22,,European Environment Agency (downloaded in 2021),database 2022
+57,LTU,Lithuania,Naujoji Akmene,2019,10,24,,European Environment Agency (downloaded in 2021),database 2022
+58,LTU,Lithuania,Naujoji Akmenė,2014,,26,5,"Air quality statistics, calculated by the European Environment Agency according to official data provided by Lithuania",database 2022
+59,LTU,Lithuania,Naujoji Akmenė,2015,,20,5,"Air quality statistics, calculated by the European Environment Agency according to official data provided by Lithuania",database 2022
+60,LTU,Lithuania,Naujoji Akmenė,2016,,21,3,"Air quality statistics, calculated by the European Environment Agency according to official data provided by Lithuania",database 2022
+61,LTU,Lithuania,Naujoji Akmenė,2017,,,1,"Air quality statistics, calculated by the European Environment Agency according to official data provided by Lithuania",database 2022
+62,LTU,Lithuania,Noreikiskes,2013,13,19,7,European Environment Agency (downloaded in 2021),database 2022
+63,LTU,Lithuania,Noreikiskes,2014,15,22,9,European Environment Agency (downloaded in 2021),database 2022
+64,LTU,Lithuania,Noreikiskes,2015,10,20,9,European Environment Agency (downloaded in 2021),database 2022
+65,LTU,Lithuania,Noreikiskes,2016,7,18,9,European Environment Agency (downloaded in 2021),database 2022
+66,LTU,Lithuania,Noreikiskes,2017,7,14,8,European Environment Agency (downloaded in 2021),database 2022
+67,LTU,Lithuania,Noreikiskes,2018,13,22,9,European Environment Agency (downloaded in 2021),database 2022
+68,LTU,Lithuania,Noreikiskes,2019,15,25,8,European Environment Agency (downloaded in 2021),database 2022
+69,LTU,Lithuania,Panevezys,2010,,30,14,European Environment Agency (downloaded in 2021),database 2022
+70,LTU,Lithuania,Panevezys,2013,,31,16,"Air quality statistics, calculated by the European Environment Agency according to official data provided by Lithuania, European Environment Agency (downloaded in 2021)",database 2022
+71,LTU,Lithuania,Panevezys,2014,,21,13,European Environment Agency (downloaded in 2021),database 2022
+72,LTU,Lithuania,Panevezys,2015,,16,14,European Environment Agency (downloaded in 2021),database 2022
+73,LTU,Lithuania,Panevezys,2016,,17,15,European Environment Agency (downloaded in 2021),database 2022
+74,LTU,Lithuania,Panevezys,2017,,15,13,European Environment Agency (downloaded in 2021),database 2022
+75,LTU,Lithuania,Panevezys,2018,,18,16,European Environment Agency (downloaded in 2021),database 2022
+76,LTU,Lithuania,Panevezys,2019,,26,17,European Environment Agency (downloaded in 2021),database 2022
+77,LTU,Lithuania,Panevėžys,2014,,21,13,"Air quality statistics, calculated by the European Environment Agency according to official data provided by Lithuania",database 2022
+78,LTU,Lithuania,Panevėžys,2015,,16,14,"Air quality statistics, calculated by the European Environment Agency according to official data provided by Lithuania",database 2022
+79,LTU,Lithuania,Panevėžys,2016,,17,15,"Air quality statistics, calculated by the European Environment Agency according to official data provided by Lithuania",database 2022
+80,LTU,Lithuania,Preila,2010,,,3,European Environment Agency (downloaded in 2021),database 2022
+81,LTU,Lithuania,Siauliai,2010,,34,27,European Environment Agency (downloaded in 2021),database 2022
+82,LTU,Lithuania,Siauliai,2013,,37,24,"Air quality statistics, calculated by the European Environment Agency according to official data provided by Lithuania, European Environment Agency (downloaded in 2021)",database 2022
+83,LTU,Lithuania,Siauliai,2014,,26,22,European Environment Agency (downloaded in 2021),database 2022
+84,LTU,Lithuania,Siauliai,2015,,21,21,European Environment Agency (downloaded in 2021),database 2022
+85,LTU,Lithuania,Siauliai,2016,,18,21,European Environment Agency (downloaded in 2021),database 2022
+86,LTU,Lithuania,Siauliai,2017,,,25,European Environment Agency (downloaded in 2021),database 2022
+87,LTU,Lithuania,Siauliai,2018,,31,24,European Environment Agency (downloaded in 2021),database 2022
+88,LTU,Lithuania,Siauliai,2019,,24,19,European Environment Agency (downloaded in 2021),database 2022
+89,LTU,Lithuania,Šiauliai,2014,,26,22,"Air quality statistics, calculated by the European Environment Agency according to official data provided by Lithuania",database 2022
+90,LTU,Lithuania,Šiauliai,2015,,21,21,"Air quality statistics, calculated by the European Environment Agency according to official data provided by Lithuania",database 2022
+91,LTU,Lithuania,Šiauliai,2016,,18,21,"Air quality statistics, calculated by the European Environment Agency according to official data provided by Lithuania",database 2022
+92,LTU,Lithuania,Vilnius,2010,14,26,21,European Environment Agency (downloaded in 2021),database 2022
+93,LTU,Lithuania,Vilnius,2013,19,27,24,"Air quality statistics, calculated by the European Environment Agency according to official data provided by Lithuania, European Environment Agency (downloaded in 2021)",database 2022
+94,LTU,Lithuania,Vilnius,2014,20,28,23,"Air quality statistics, calculated by the European Environment Agency according to official data provided by Lithuania, European Environment Agency (downloaded in 2021)",database 2022
+95,LTU,Lithuania,Vilnius,2015,19,27,24,"Air quality statistics, calculated by the European Environment Agency according to official data provided by Lithuania, European Environment Agency (downloaded in 2021)",database 2022
+96,LTU,Lithuania,Vilnius,2016,17,27,25,"Air quality statistics, calculated by the European Environment Agency according to official data provided by Lithuania, European Environment Agency (downloaded in 2021)",database 2022
+97,LTU,Lithuania,Vilnius,2017,13,26,22,European Environment Agency (downloaded in 2021),database 2022
+98,LTU,Lithuania,Vilnius,2018,13,25,22,European Environment Agency (downloaded in 2021),database 2022
+99,LTU,Lithuania,Vilnius,2019,14,23,19,European Environment Agency (downloaded in 2021),database 2022

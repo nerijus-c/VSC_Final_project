@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_99e90268e9e45ef77738c0ad38406f0c {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_99e90268e9e45ef77738c0ad38406f0c" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_99e90268e9e45ef77738c0ad38406f0c = L.map(
+                "map_99e90268e9e45ef77738c0ad38406f0c",
+                {
+                    center: [55.11201074940712, 24.065172740215825],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 8,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_1f28aef84b2bbd9bf250d4e2c13057f7 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca target=\"_blank\" href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca target=\"_blank\" href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+                tile_layer_1f28aef84b2bbd9bf250d4e2c13057f7.addTo(map_99e90268e9e45ef77738c0ad38406f0c);
+    
+            var marker_179204e208ec3e970965f4a8ef62675e = L.marker(
+                [54.68906449, 25.27499907],
+                {}
+            ).addTo(map_99e90268e9e45ef77738c0ad38406f0c);
+        
+    
+            var icon_9722d3d84431980b788108a15845de5f = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "cloud", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_179204e208ec3e970965f4a8ef62675e.setIcon(icon_9722d3d84431980b788108a15845de5f);
+        
+    
+        var popup_f7f1fddb0a6797d251999d222a215cdc = L.popup({"maxWidth": 500});
+
+        
+            
+                var html_ebe913fed57738606093f355500707ae = $(`<div id="html_ebe913fed57738606093f355500707ae" style="width: 100.0%; height: 100.0%;">Vilnius Air Quality Data: AQI=4; PM2.5=54; PM10=15; O3=4</div>`)[0];
+                popup_f7f1fddb0a6797d251999d222a215cdc.setContent(html_ebe913fed57738606093f355500707ae);
+            
+        
+
+        marker_179204e208ec3e970965f4a8ef62675e.bindPopup(popup_f7f1fddb0a6797d251999d222a215cdc)
+        ;
+
+        
+    
+    
+            marker_179204e208ec3e970965f4a8ef62675e.bindTooltip(
+                `<div>
+                     Click here for more info!
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_9809497e1a8a98475929c59e20d20300 = L.marker(
+                [54.91064874, 23.89693172],
+                {}
+            ).addTo(map_99e90268e9e45ef77738c0ad38406f0c);
+        
+    
+            var icon_16430dc1f18ef05f80272ba9e65f30d5 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "cloud", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_9809497e1a8a98475929c59e20d20300.setIcon(icon_16430dc1f18ef05f80272ba9e65f30d5);
+        
+    
+        var popup_c7d7bdd7fd31d4166e90e2f293ca2070 = L.popup({"maxWidth": 500});
+
+        
+            
+                var html_179f81309ead38e5231ae742b834aa39 = $(`<div id="html_179f81309ead38e5231ae742b834aa39" style="width: 100.0%; height: 100.0%;">Kaunas Air Quality Data: AQI=56; PM2.5=56; PM10=29; O3=15.7</div>`)[0];
+                popup_c7d7bdd7fd31d4166e90e2f293ca2070.setContent(html_179f81309ead38e5231ae742b834aa39);
+            
+        
+
+        marker_9809497e1a8a98475929c59e20d20300.bindPopup(popup_c7d7bdd7fd31d4166e90e2f293ca2070)
+        ;
+
+        
+    
+    
+            marker_9809497e1a8a98475929c59e20d20300.bindTooltip(
+                `<div>
+                     Click me!
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_c532a67440ad562e5e0c69ee4f2ea017 = L.marker(
+                [55.72646869, 21.12991317],
+                {}
+            ).addTo(map_99e90268e9e45ef77738c0ad38406f0c);
+        
+    
+            var icon_12e04994eda592e8003b97f9bec1ce57 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "cloud", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_c532a67440ad562e5e0c69ee4f2ea017.setIcon(icon_12e04994eda592e8003b97f9bec1ce57);
+        
+    
+        var popup_37f6660798c1fd25452d437eec5e2acd = L.popup({"maxWidth": 500});
+
+        
+            
+                var html_1d3061d739ef58c09581e3a0228535b7 = $(`<div id="html_1d3061d739ef58c09581e3a0228535b7" style="width: 100.0%; height: 100.0%;">Klaipėda Air Quality Data: AQI=8; PM2.5=21; PM10=9; O3=8.4</div>`)[0];
+                popup_37f6660798c1fd25452d437eec5e2acd.setContent(html_1d3061d739ef58c09581e3a0228535b7);
+            
+        
+
+        marker_c532a67440ad562e5e0c69ee4f2ea017.bindPopup(popup_37f6660798c1fd25452d437eec5e2acd)
+        ;
+
+        
+    
+    
+            marker_c532a67440ad562e5e0c69ee4f2ea017.bindTooltip(
+                `<div>
+                     Click me!
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_081dee850d538f111877e63924248017 = L.marker(
+                [56.31768759773947, 22.89277557811417],
+                {}
+            ).addTo(map_99e90268e9e45ef77738c0ad38406f0c);
+        
+    
+            var icon_ec1ee3a3ebfc8425782a4c783b7fee41 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "cloud", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_081dee850d538f111877e63924248017.setIcon(icon_ec1ee3a3ebfc8425782a4c783b7fee41);
+        
+    
+        var popup_2af9c8144a30e3d0e34a59f4a1edb7c2 = L.popup({"maxWidth": 500});
+
+        
+            
+                var html_dbe51924045adbb541ff89bddde50154 = $(`<div id="html_dbe51924045adbb541ff89bddde50154" style="width: 100.0%; height: 100.0%;">Naujoji Akmenė Air Quality Data: AQI=33; PM2.5=33; PM10=9; SO2=3.1</div>`)[0];
+                popup_2af9c8144a30e3d0e34a59f4a1edb7c2.setContent(html_dbe51924045adbb541ff89bddde50154);
+            
+        
+
+        marker_081dee850d538f111877e63924248017.bindPopup(popup_2af9c8144a30e3d0e34a59f4a1edb7c2)
+        ;
+
+        
+    
+    
+            marker_081dee850d538f111877e63924248017.bindTooltip(
+                `<div>
+                     Click here!
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_5b069a85389ec4c78dafcc8787f006b3 = L.marker(
+                [55.72564804568164, 21.931172247247403],
+                {}
+            ).addTo(map_99e90268e9e45ef77738c0ad38406f0c);
+        
+    
+            var icon_ce0d52125fb854cd55eb1e51f4f3c147 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "cloud", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_5b069a85389ec4c78dafcc8787f006b3.setIcon(icon_ce0d52125fb854cd55eb1e51f4f3c147);
+        
+    
+        var popup_f9813144205e6b89f6efbc4ab5b9570f = L.popup({"maxWidth": 500});
+
+        
+            
+                var html_31a6ca8494d84497f7d4c0ce482d943c = $(`<div id="html_31a6ca8494d84497f7d4c0ce482d943c" style="width: 100.0%; height: 100.0%;">Rietavas Air Quality Data: AQI=19; O3=18.6; SO2=1.1</div>`)[0];
+                popup_f9813144205e6b89f6efbc4ab5b9570f.setContent(html_31a6ca8494d84497f7d4c0ce482d943c);
+            
+        
+
+        marker_5b069a85389ec4c78dafcc8787f006b3.bindPopup(popup_f9813144205e6b89f6efbc4ab5b9570f)
+        ;
+
+        
+    
+    
+            marker_5b069a85389ec4c78dafcc8787f006b3.bindTooltip(
+                `<div>
+                     Click here!
+                 </div>`,
+                {"sticky": true}
+            );
+        
+</script>
+</html>
