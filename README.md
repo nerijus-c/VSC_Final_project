@@ -50,7 +50,6 @@ Steps:
 <p align="center">
   <img width="700" height="550" src="https://github.com/nerijus-c/VSC_Final_project/blob/main/jpeg/city_avg.png">
 </p>
-       
    
 3. Live AQI monitoring data map:
 
