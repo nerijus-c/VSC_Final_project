@@ -7,3 +7,4 @@ matplotlib
 folium
 timestamp
 selenium
+schedule

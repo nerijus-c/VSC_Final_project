@@ -197,7 +197,7 @@ def show_air_quality_by_city():
     plt.savefig(f'{save_address}jpeg/recent_air_quality_data_major_cities')
     plt.show()
 
-# show_air_quality_by_city()
+show_air_quality_by_city()
 
 
 #Updating map:
@@ -207,4 +207,4 @@ while True:
     schedule.run_pending()
     time.sleep(5)
 
-df['data'] = pd.to_datetime(df['data'], format='%Y-%M-%D %h:%m:%s')
+
