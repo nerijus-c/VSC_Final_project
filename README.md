@@ -40,10 +40,9 @@ Steps:
         ![alt_text](https://github.com/nerijus-c/VSC_Final_project/blob/main/jpeg/air_stat_by_year.png)
    2. Comparison of air pollution in Lithuania's major cities:
            ![alt_text](https://github.com/nerijus-c/VSC_Final_project/blob/main/jpeg/recent_air_quality_data_major_cities.png)
-   3. Air polution by particulate matter:
-        * PM2.5 ![alt_text](https://github.com/nerijus-c/VSC_Final_project/blob/main/jpeg/city_pm25_avg.png)
-        * PM10 ![alt_text](https://github.com/nerijus-c/VSC_Final_project/blob/main/jpeg/city_PM10_avg.png)
-        * NO2 ![alt_text](https://github.com/nerijus-c/VSC_Final_project/blob/main/jpeg/city_NO2_avg.png)
+   3. Air pollution by city:
+        ![alt_text](https://github.com/nerijus-c/VSC_Final_project/blob/main/jpeg/city_avg.png)
+       
    
 3. Live AQI monitoring data map:
 
