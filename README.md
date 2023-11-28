@@ -41,7 +41,7 @@ Steps:
    2. Comparison of air pollution in Lithuania's major cities:
            ![alt_text](https://github.com/nerijus-c/VSC_Final_project/blob/main/jpeg/recent_air_quality_data_major_cities.png)
    3. Air pollution by city:
-        ![alt_text](https://github.com/nerijus-c/VSC_Final_project/blob/main/jpeg/city_avg.png)
+          ![alt_text](https://github.com/nerijus-c/VSC_Final_project/blob/main/jpeg/city_avg.png)
        
    
 3. Live AQI monitoring data map:
