@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc983f80-c798-4718-b89e-9bb7c0720819" name="Changes" comment=".">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="dc983f80-c798-4718-b89e-9bb7c0720819" name="Changes" comment="." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +82,7 @@
       <workItem from="1701178717590" duration="956000" />
       <workItem from="1701179885339" duration="11000" />
       <workItem from="1701180037466" duration="158000" />
-      <workItem from="1701180205328" duration="7711000" />
+      <workItem from="1701180205328" duration="8013000" />
     </task>
     <task id="LOCAL−00001" summary="antra diena grafikai ir pan">
       <option name="closed" value="true" />
@@ -345,7 +343,21 @@
       <option name="presentableId" value="LOCAL−00037" />
       <updated>1701201858626</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL−00038" summary=".">
+      <option name="closed" value="true" />
+      <created>1701202040059</created>
+      <option name="number" value="LOCAL−00038" />
+      <option name="presentableId" value="LOCAL−00038" />
+      <updated>1701202040059</updated>
+    </task>
+    <task id="LOCAL−00039" summary=".">
+      <option name="closed" value="true" />
+      <created>1701202139446</created>
+      <option name="number" value="LOCAL−00039" />
+      <option name="presentableId" value="LOCAL−00039" />
+      <updated>1701202139446</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
