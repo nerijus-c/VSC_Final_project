@@ -1,6 +1,6 @@
 # Air particulate matter monitoring and analysis.
 Created by: Žygimantas Rėkus and Nerijus Čiuželis, 2023-11-16
-![alt_text](https://github.com/7yg1s/Final-project/blob/main/jpeg/img.png)
+![alt_text](https://github.com/nerijus-c/VSC_Final_project/blob/main/jpeg/img.png)
 
 This is the final project for Data analytics course at Vilnius Coding School. The goal is to get all the necessary data from a web, clean it and analyse. Check how air quality is changing according years, region and compare statistics to live data from different cities in Lithuania. For this project we used Python language with some of its libraries, CSV files for saving data and PowerBi for visualisations.
 
@@ -37,19 +37,19 @@ Steps:
 
 2. Calculations and visualisations:
    1. We calculated Lithuania's yearly average air pollution of PM2.5, PM10, NO2 using the data from WHO database and visualised it.
-        ![alt_text](https://github.com/7yg1s/Final-project/blob/main/jpeg/air_stat_by_year.png)
+        ![alt_text](https://github.com/nerijus-c/VSC_Final_project/blob/main/jpeg/air_stat_by_year.png)
    2. Comparison of air pollution in Lithuania's major cities:
-           ![alt_text](https://github.com/7yg1s/Final-project/blob/main/jpeg/recent_air_quality_data_major_cities.png)
+           ![alt_text](https://github.com/nerijus-c/VSC_Final_project/blob/main/jpeg/recent_air_quality_data_major_cities.png)
    3. Air polution by particulate matter:
-        * PM2.5 ![alt_text](https://github.com/7yg1s/Final-project/blob/main/jpeg/city_pm25_avg.png)
-        * PM10 ![alt_text](https://github.com/7yg1s/Final-project/blob/main/jpeg/city_PM10_avg.png)
-        * NO2 ![alt_text](https://github.com/7yg1s/Final-project/blob/main/jpeg/city_NO2_avg.png)
+        * PM2.5 ![alt_text](https://github.com/nerijus-c/VSC_Final_project/blob/main/jpeg/city_pm25_avg.png)
+        * PM10 ![alt_text](https://github.com/nerijus-c/VSC_Final_project/blob/main/jpeg/city_PM10_avg.png)
+        * NO2 ![alt_text](https://github.com/nerijus-c/VSC_Final_project/blob/main/jpeg/city_NO2_avg.png)
    
 3. Live AQI monitoring data map:
 
     To see the live AQI data of Lithuania please click on the map below:      
 
-    [![Lithuania's AQI map.](https://github.com/7yg1s/Final-project/blob/main/html/map_pic.png)](https://nbviewer.org/github/7yg1s/Final-project/blob/main/html/live_map.html)
+    [![Lithuania's AQI map.](https://github.com/nerijus-c/VSC_Final_project/blob/main/html/map_pic.png)](https://github.com/nerijus-c/VSC_Final_project/blob/main/html/live_map.html)
 
 ## Conclusion:
 
