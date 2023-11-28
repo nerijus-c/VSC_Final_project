@@ -162,7 +162,7 @@ def show_avg_city():
     width = 0.25  # the width of the bars
     multiplier = 0
 
-    fig, ax = plt.subplots(layout='constrained')
+    fig, ax = plt.subplots(figsize=(8, 6), layout='constrained')
 
     for attribute, measurement in particular.items():
         offset = width * multiplier
@@ -179,7 +179,7 @@ def show_avg_city():
     plt.savefig(f'{save_address}jpeg/city_avg')
     plt.show()
 
-# show_avg_city()
+show_avg_city()
 
 # Update AQI data on daily basis:
 live_data_scraping()

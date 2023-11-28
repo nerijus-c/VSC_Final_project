@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc983f80-c798-4718-b89e-9bb7c0720819" name="Changes" comment=".">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jpeg/city_NO2_avg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jpeg/city_PM10_avg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jpeg/city_pm25_avg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpeg/city_avg.png" beforeDir="false" afterPath="$PROJECT_DIR$/jpeg/city_avg.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +85,7 @@
       <workItem from="1701178717590" duration="956000" />
       <workItem from="1701179885339" duration="11000" />
       <workItem from="1701180037466" duration="158000" />
-      <workItem from="1701180205328" duration="5585000" />
+      <workItem from="1701180205328" duration="6491000" />
     </task>
     <task id="LOCAL−00001" summary="antra diena grafikai ir pan">
       <option name="closed" value="true" />
@@ -243,7 +241,28 @@
       <option name="presentableId" value="LOCAL−00022" />
       <updated>1701186490829</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL−00023" summary=".">
+      <option name="closed" value="true" />
+      <created>1701186593664</created>
+      <option name="number" value="LOCAL−00023" />
+      <option name="presentableId" value="LOCAL−00023" />
+      <updated>1701186593664</updated>
+    </task>
+    <task id="LOCAL−00024" summary=".">
+      <option name="closed" value="true" />
+      <created>1701186646305</created>
+      <option name="number" value="LOCAL−00024" />
+      <option name="presentableId" value="LOCAL−00024" />
+      <updated>1701186646305</updated>
+    </task>
+    <task id="LOCAL−00025" summary=".">
+      <option name="closed" value="true" />
+      <created>1701186845747</created>
+      <option name="number" value="LOCAL−00025" />
+      <option name="presentableId" value="LOCAL−00025" />
+      <updated>1701186845747</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
