@@ -46,7 +46,7 @@ Steps:
 </p>
    3. Air pollution by city:
 <p align="center">
-  <img width="800" height="600" src="https://github.com/nerijus-c/VSC_Final_project/blob/main/jpeg/city_avg.png">
+  <img width="700" height="550" src="https://github.com/nerijus-c/VSC_Final_project/blob/main/jpeg/city_avg.png">
 </p>
        
    
