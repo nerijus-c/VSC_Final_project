@@ -84,7 +84,7 @@
       <workItem from="1701178717590" duration="956000" />
       <workItem from="1701179885339" duration="11000" />
       <workItem from="1701180037466" duration="158000" />
-      <workItem from="1701180205328" duration="7385000" />
+      <workItem from="1701180205328" duration="7711000" />
     </task>
     <task id="LOCAL−00001" summary="antra diena grafikai ir pan">
       <option name="closed" value="true" />
@@ -317,7 +317,35 @@
       <option name="presentableId" value="LOCAL−00033" />
       <updated>1701201629157</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL−00034" summary=".">
+      <option name="closed" value="true" />
+      <created>1701201658716</created>
+      <option name="number" value="LOCAL−00034" />
+      <option name="presentableId" value="LOCAL−00034" />
+      <updated>1701201658716</updated>
+    </task>
+    <task id="LOCAL−00035" summary=".">
+      <option name="closed" value="true" />
+      <created>1701201774123</created>
+      <option name="number" value="LOCAL−00035" />
+      <option name="presentableId" value="LOCAL−00035" />
+      <updated>1701201774123</updated>
+    </task>
+    <task id="LOCAL−00036" summary=".">
+      <option name="closed" value="true" />
+      <created>1701201806724</created>
+      <option name="number" value="LOCAL−00036" />
+      <option name="presentableId" value="LOCAL−00036" />
+      <updated>1701201806724</updated>
+    </task>
+    <task id="LOCAL−00037" summary=".">
+      <option name="closed" value="true" />
+      <created>1701201858626</created>
+      <option name="number" value="LOCAL−00037" />
+      <option name="presentableId" value="LOCAL−00037" />
+      <updated>1701201858626</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
