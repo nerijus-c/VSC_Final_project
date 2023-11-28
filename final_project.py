@@ -51,7 +51,7 @@ avg_all = df[['NO2', 'PM10', 'PM2.5']].mean().round(2)
 avg_year = df.groupby('Year', as_index=False)[['PM2.5', 'PM10', 'NO2']].mean().round(2)
 # print(f"Vidutines reiksmes pagal metus:\n{avg_year}")
 
-avg_city = df.groupby('City', as_index=False)[['PM2.5', 'PM10', 'NO2']].mean().round(2).reset_index
+avg_city = df.groupby('City', as_index=False)[['PM2.5', 'PM10', 'NO2']].mean().round(2)
 # print(f"Vidutines reiksmes pagal miesta:\n{avg_city}")
 
 avg_city_PM25 = df.groupby('City', as_index=False)[['PM2.5']].mean().round(2)
@@ -114,47 +114,72 @@ def show_air_quality_statistics_by_year():
     plt.grid()
     plt.savefig(f'{save_address}jpeg/air_stat_by_year')
     plt.show()
-
-
 # show_air_quality_statistics_by_year()
 
-def show_city_PM25_average():
-    x = avg_city_PM25['City']
-    plt.figure(figsize=(12, 12))
-    plt.bar(x, avg_city_PM25['PM2.5'], color='green')
-    plt.ylabel('Value μg/m3', fontsize=18)
-    plt.title('Yearly average PM2.5 by city', fontsize=18)
-    plt.xticks(x, rotation=60)
-    plt.rcParams.update({'font.size': 22})
-    plt.savefig(f'{save_address}jpeg/city_pm25_avg')
+
+# def show_city_PM25_average():
+#     x = avg_city_PM25['City']
+#     plt.figure(figsize=(12, 12))
+#     plt.bar(x, avg_city_PM25['PM2.5'], color='green')
+#     plt.ylabel('Value μg/m3', fontsize=18)
+#     plt.title('Yearly average PM2.5 by city', fontsize=18)
+#     plt.xticks(x, rotation=60)
+#     plt.rcParams.update({'font.size': 22})
+#     plt.savefig(f'{save_address}jpeg/city_pm25_avg')
+#     plt.show()
+# # show_city_PM25_average()
+#
+# def show_city_PM10_average():
+#     x = avg_city_PM10['City']
+#     plt.figure(figsize=(12, 12))
+#     plt.bar(x, avg_city_PM10['PM10'], color='blue')
+#     plt.ylabel('Value μg/m3', fontsize=18)
+#     plt.title('Yearly average PM10 by city', fontsize=18)
+#     plt.xticks(x, rotation=60)
+#     plt.rcParams.update({'font.size': 22})
+#     plt.savefig(f'{save_address}jpeg/city_PM10_avg')
+#     plt.show()
+# # show_city_PM10_average()
+#
+# def show_city_NO2_average():
+#     x = avg_city_NO2['City']
+#     plt.figure(figsize=(12, 12))
+#     plt.bar(x, avg_city_NO2['NO2'], color='red')
+#     plt.ylabel('Value μg/m3', fontsize=18)
+#     plt.title('Yearly average NO2 by city', fontsize=18)
+#     plt.xticks(x, rotation=50)
+#     plt.rcParams.update({'font.size': 22})
+#     plt.savefig(f'{save_address}jpeg/city_NO2_avg')
+#     plt.show()
+# # show_city_NO2_average()
+
+### show average air quality by city
+def show_avg_city():
+    cities = avg_city['City']
+    particular = avg_city[['PM2.5', 'PM10', 'NO2']]
+
+    x = np.arange(len(cities))  # the label locations
+    width = 0.25  # the width of the bars
+    multiplier = 0
+
+    fig, ax = plt.subplots(layout='constrained')
+
+    for attribute, measurement in particular.items():
+        offset = width * multiplier
+        rects = ax.bar(x + offset, measurement, width, label=attribute)
+        multiplier += 1
+
+    # Add some text for labels, title and custom x-axis tick labels, etc.
+    ax.set_ylabel('Value μg/m3')
+    ax.set_title('Air polution particals by city')
+    ax.set_xticks(x + width, cities, rotation=90)
+    ax.legend(ncols=3)
+    ax.set_ylim(0, 35)
+    plt.grid(axis='y')
+    plt.savefig(f'{save_address}jpeg/city_avg')
     plt.show()
 
-
-# show_city_PM25_average()
-
-def show_city_PM10_average():
-    x = avg_city_PM10['City']
-    plt.figure(figsize=(12, 12))
-    plt.bar(x, avg_city_PM10['PM10'], color='blue')
-    plt.ylabel('Value μg/m3', fontsize=18)
-    plt.title('Yearly average PM10 by city', fontsize=18)
-    plt.xticks(x, rotation=60)
-    plt.rcParams.update({'font.size': 22})
-    plt.savefig(f'{save_address}jpeg/city_PM10_avg')
-    plt.show()
-# show_city_PM10_average()
-
-def show_city_NO2_average():
-    x = avg_city_NO2['City']
-    plt.figure(figsize=(12, 12))
-    plt.bar(x, avg_city_NO2['NO2'], color='red')
-    plt.ylabel('Value μg/m3', fontsize=18)
-    plt.title('Yearly average NO2 by city', fontsize=18)
-    plt.xticks(x, rotation=50)
-    plt.rcParams.update({'font.size': 22})
-    plt.savefig(f'{save_address}jpeg/city_NO2_avg')
-    plt.show()
-# show_city_NO2_average()
+# show_avg_city()
 
 # Update AQI data on daily basis:
 live_data_scraping()
